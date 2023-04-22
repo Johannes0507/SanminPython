@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 15 13:00:38 2023
 
-@author: 李旻恩
+@author: 李旻恩 123
 """
 
 import random
